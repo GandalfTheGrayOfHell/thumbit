@@ -1,0 +1,15 @@
+[package]
+name = "thumbit"
+version = "0.1.0"
+authors = ["Tanishq Jain <tanishqjain1002@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[profile.release]
+lto = "fat"
+codegen-units = 1
+opt-level = 3
+
+[dependencies]
+image = "0.23.6"
