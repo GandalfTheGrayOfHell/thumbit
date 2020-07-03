@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="output/norris-niman-ABtmE3jhaPQ-unsplash.jpg" alt="xo" style="zoom:25%;" />
+  <img src="data/norris-niman-ABtmE3jhaPQ-unsplash.jpg" alt="xo" style="zoom:10%;" />
 </p>
 
 # ThumbIt
